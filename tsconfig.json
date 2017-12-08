@@ -1,7 +1,6 @@
 {
 	"files": [
-        "index.d.ts",
-        "test.tsx"
+        "index.d.ts"
     ],
     "compilerOptions": {
         "module": "commonjs",
