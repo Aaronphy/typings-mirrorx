@@ -1,6 +1,7 @@
 {
-    "extends": "dtslint/dt.json",
+    "extends": ["tslint:latest", "tslint-react"],
     "rules": {
-        "no-unnecessary-generics": false
+        "no-unnecessary-generics": false,
+        "jsx-wrap-multiline": false
     }
 }
